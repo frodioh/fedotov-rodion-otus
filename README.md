@@ -1,2 +1,3 @@
-# otus_nodejs_homework
-otus_nodejs_homework
+# Otus node.js course homeworks
+
+## Homework 1
