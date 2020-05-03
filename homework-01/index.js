@@ -1,23 +1,23 @@
 const printTree = require('./printTree');
 
 console.log(printTree({
-    "name": 1,
-    "items": [
-        {
-            "name": 2,
-            "items": [
-                { "name": 3 },
-                { "name": 4 }
-            ]
-        },
-        {
-            "name": 5,
-            "items": [
-                { "name": 6 }
-            ]
-        },
-        {
-            "name": 7
-        },
-    ]
+  "name": 1,
+  "items": [
+    {
+      "name": 2,
+      "items": [
+        { "name": 3 },
+        { "name": 4 }
+      ]
+    },
+    {
+      "name": 5,
+      "items": [
+        { "name": 6 }
+      ]
+    },
+    {
+      "name": 7
+    },
+  ]
 }));
