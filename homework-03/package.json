@@ -1,0 +1,19 @@
+{
+  "name": "tree",
+  "version": "1.0.0",
+  "description": "homework-02",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "generateNumbers": "node createFileWithNumbers.js",
+    "sortNumbers": "node sortNumbers.js"
+  },
+  "author": "Rodion Fedotov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
